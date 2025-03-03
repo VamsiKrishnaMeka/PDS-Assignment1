@@ -1,1 +1,8 @@
+/FrailtyStudy/
+ ├── data_processed/  
+ │   ├── grip_strength_cleaned.csv  
+ │   ├── summary_statistics.xlsx  
+ ├── scripts/  
+ │   ├── data_cleaning.py (or .R)  
+ │   ├── analysis.py (or .R)  
 
