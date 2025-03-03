@@ -1,4 +1,4 @@
-Frailty is physical weakness; lack of health or strength. Reduced grip strength in females correlated
+Question1:Frailty is physical weakness; lack of health or strength. Reduced grip strength in females correlated
 with higher frailty scores and vice versa. Hand grip strength can be quantified by measuring the amount
 of static force that the hand can squeeze around a dynamometer. The force has most commonly been
 measured in kilograms and pounds. The table below represents data from 10 female participants. The
